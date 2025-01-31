@@ -2,12 +2,15 @@
 Problems on every Topic from EASY -> MEDIUM -> HARD 
 
 Arrays
+
 Easy:
 - Find the Largest Element in an Array
 - Remove Duplicates from Sorted Array
+
 Medium:
 - Rotate Array by K Steps
 - Find the Missing Number in an Array
+
 Hard:
 - Merge Two Sorted Arrays Without Extra Space
 
